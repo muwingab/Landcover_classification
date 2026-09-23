@@ -1,5 +1,4 @@
 # Land Cover Classification,  SW Rwanda
-## Oath Africa Geospatial Analyst Assessment
 
 ### Overview
 Land use and land cover mapping of SW Rwanda using Sentinel-2 
@@ -42,5 +41,4 @@ The `Query.sql` file contains 4 queries ready to run against the provided databa
 - **Query 3** : Earliest order date from orders table
 - **Query 4** : Account names joined with their order dates
 
-Note: I failed to get the queries output because The provided SQL file uses PostgreSQL syntax which is incompatible 
-with MySQL but you can run it on your end to see the output. 
+ 
